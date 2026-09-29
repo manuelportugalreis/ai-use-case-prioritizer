@@ -1,0 +1,11 @@
+process,department,ai_pattern,hours_per_week,people,hourly_cost,error_cost_per_month,data_readiness,standardisation,risk_if_wrong
+Supplier invoice data entry,Finance,Document extraction,30,3,32,1500,5,5,3
+Customer email triage and routing,Customer service,Classification & routing,25,4,28,500,4,4,2
+Answering order-status questions,Customer service,Q&A over documents,40,5,28,800,4,4,2
+Writing product descriptions,Marketing,Drafting,12,2,40,0,3,3,1
+Weekly sales forecast for purchasing,Operations,Forecasting,8,2,55,6000,3,3,4
+Contract review for new suppliers,Legal,Document extraction,10,1,90,2000,2,2,5
+Monthly management report,Finance,Drafting,16,2,60,0,4,4,3
+Screening job applications,HR,Classification & routing,12,2,38,0,3,3,5
+Internal IT helpdesk questions,IT,Q&A over documents,20,2,45,300,3,3,2
+Quality inspection photo review,Operations,Classification & routing,15,3,30,4000,2,4,4

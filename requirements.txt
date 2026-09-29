@@ -1,0 +1,4 @@
+pandas>=2.0
+streamlit>=1.40
+altair>=5.0
+pytest>=8.0
